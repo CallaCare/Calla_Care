@@ -9,6 +9,7 @@ var patients = [
         {name: "Mr. A", image: "https://images.unsplash.com/photo-1497414146483-5bcafdccfdff?auto=format&fit=crop&w=750&q=80"},
         {name: "Ran Man", image: "https://images.unsplash.com/photo-1479492591199-eb2492814e73?auto=format&fit=crop&w=750&q=80"},
         {name: "Mountain Goat", image: "https://images.unsplash.com/photo-1504676232785-213e681eeabb?auto=format&fit=crop&w=750&q=80"},
+        {name: "Ronny", image: "https://images.unsplash.com/photo-1508343451540-5e50f1592671?auto=format&fit=crop&w=750&q=80"},
         {name: "Ronny", image: "https://images.unsplash.com/photo-1508343451540-5e50f1592671?auto=format&fit=crop&w=750&q=80"}
 ];
     
